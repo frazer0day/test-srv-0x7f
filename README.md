@@ -38,3 +38,8 @@ node index.js
 ```
 node build.js
 ```
+
+---
+
+<img src="smiley.svg" width="120" alt=":)">
+
