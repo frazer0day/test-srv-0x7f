@@ -1,4 +1,4 @@
-# test-srv-0x7f
+# test-srv-0x7
 
 obfuscated key-checker crackme — reverse engineering challenge.
 
