@@ -21,7 +21,6 @@ find the key. only a SHA-256 digest of it is stored:
 - control flow flattened into a switch state machine
 - hex-identifier mangling + dead-code junk functions
 - timing anti-debug check
-- secret never stored in plaintext — only its hash
 
 ## rules
 
